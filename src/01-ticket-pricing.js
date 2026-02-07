@@ -24,6 +24,7 @@
  */
 export function getTicketPrice(age, isWeekend) {
   // Your code her
+ 
   if (typeof age !== "number" || age < 0) {
     return -1;
   }
@@ -47,4 +48,6 @@ export function getTicketPrice(age, isWeekend) {
   }
 
   return price;
+
+
 }
