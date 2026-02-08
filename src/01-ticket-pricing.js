@@ -16,7 +16,7 @@
  *
  * Rules:
  *   - If age is negative or not a number, return -1
- *   - isWeekend is a boolean
+ *   - isWeekend is a boolean~
  *
  * @param {number} age - The customer's age
  * @param {boolean} isWeekend - Whether it's a weekend
